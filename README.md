@@ -3,7 +3,7 @@ This project is made about a basic-monolithic agenda to train the basics of Soft
 
 # contributors
 The members of the The Special Labs, whose are:
-- Sergio Herrera Piqueras (el fucking lider)
-- Pablo Rodríguez S0LERA (CM va al parque)
-- Daniel Martínez Santiago (lo que tú quieras)
-- Juan Mena Patón (lo que tú + quieras)
+- Sergio Herrera Piqueras
+- Pablo Rodríguez S0LERA
+- Daniel Martínez Santiago
+- Juan Mena Patón
